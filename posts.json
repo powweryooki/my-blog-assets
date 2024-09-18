@@ -1,0 +1,9 @@
+[
+  {
+    "title": "我的第一篇博文",
+    "date": "2024-09-18",
+    "content": "这是我的第一篇博文的内容，使用Markdown格式。",
+    "image": "blog-image-1.jpg",
+    "imageAlt": "第一篇博文的图片"
+  }
+]
