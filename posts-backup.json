@@ -19,5 +19,12 @@
     "image": "",
     "date": "2024/12/8",
     "time": "17:09:37"
+  },
+  {
+    "title": "V2rayN下载地址",
+    "content": "以下为比较稳定的6.55旧版，但不支持win7系统https://github.com/2dust/v2rayN/releases/download/6.55/zz_v2rayN-With-Core-SelfContained.7z\n想要其他的版本，可以上https://github.com/2dust/v2rayN，然后点击靠右边的Releases ，去选择其他版本，不懂选择该下载什么版本的，里面会有详细说明。\n",
+    "image": "",
+    "date": "2024/12/8",
+    "time": "17:44:29"
   }
 ]
