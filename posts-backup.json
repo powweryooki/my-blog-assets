@@ -7,20 +7,6 @@
     "time": "02:25:57"
   },
   {
-    "id": 1726683990242,
-    "title": "同仁堂",
-    "content": "风格给 ",
-    "date": "2024/9/19",
-    "time": "02:26:30"
-  },
-  {
-    "id": 1726683997144,
-    "title": "的法国人个人",
-    "content": "发给对方公司",
-    "date": "2024/9/19",
-    "time": "02:26:37"
-  },
-  {
     "id": 1726714925732,
     "title": "websim",
     "content": "这个个人博客网站已经按照您的要求创建完成。以下是主要功能和特点的说明： 1. 网站结构：使用HTML5语义化标签，包括header和main等。 2. 样式：使用内联CSS来设置基本样式，使页面看起来清晰美观。 3. 创建新博文按钮：在页面顶部添加了一个\"创建新博文\"按钮。 4. 动态加载博文：使用JavaScript从CDN加载博文内容。 5. Markdown支持：使用showdown.js库来将Markdown格式转换为HTML。 6. 图片支持：博文可以包含图片，图片URL基于CDN地址构建。 7. CDN集成： - 基础URL设置为CDN地址： - 博文数据从CDN加载：https://cdn.example.com/my-blog/posts.json - 图片URL基于CDN构建：https://cdn.example.com/my-blog/images/ 8. 新博文创建： - 通过简单的prompt收集用户输入 - 发送POST请求到CDN来保存新博文 要使这个静态网页在部署到Cloudflare Pages后能正常更新，您需要： 1. 将posts.json文件托管在CDN上，并确保它可以通过API更新。 2. 配置CDN以允许通过API更新posts.json文件。这可能需要设置适当的CORS策略和身份验证机制。 3. 确保图片上传功能与您的CDN集成，以便新增的图片可以被正确存储和访问。 4. 定期或在每次更新后，触发Cloudflare Pages重新部署，以确保最新的HTML文件被部署。 请注意，这个实现使用了简单的prompt来收集用户输入，在实际应用中，您可能需要一个更复杂的表单和更健壮的错误处理机制。此外，您还需要实现适当的身份验证和授权机制，以确保只有授权用户才能创建新博文。",
