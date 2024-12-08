@@ -12,19 +12,5 @@
     "image": "https://img520.com/G1z3gv.jpg",
     "date": "2024/12/8",
     "time": "13:40:57"
-  },
-  {
-    "title": "IDM激活教程",
-    "content": "IDM官网下载地址：\n\nhttps://www.internerdownloadmanager.com/\n\n激活教程地址：\n\nhttps://github.com/WindowsAddict/IDM-Activation-Script/releases\n\n激活方法：\n\n鼠标右键点击开始菜单，选择Windows PowerShell  （注意此处并非CMD）\n\n然后复制下面的内容粘贴在Windows PowerShell窗口中并按下回车，\n\nirm https://massgrave.dev/ias | iex\n\n稍等后它会出现一个选项窗口，选择2是激活，选择1是冻结试用状态（即是永久可以试用模式），这里推荐选择2直接激活。\n\n选2后再弹出一个窗口，然后再选择9继续，如果选择1是返回。\n\n之后它会自动下载一些文件自动执行完毕后即可。",
-    "image": "https://puui.qpic.cn/vpic_cover/n3207tvhh99/n3207tvhh99_hz.jpg/1280",
-    "date": "2024/12/8",
-    "time": "17:09:37"
-  },
-  {
-    "title": "V2rayN下载地址",
-    "content": "以下为比较稳定的6.55旧版，但不支持win7系统https://github.com/2dust/v2rayN/releases/download/6.55/zz_v2rayN-With-Core-SelfContained.7z\n想要其他的版本，可以上https://github.com/2dust/v2rayN，然后点击靠右边的Releases ，去选择其他版本，不懂选择该下载什么版本的，里面会有详细说明。\n",
-    "image": "https://th.bing.com/th/id/R.128f0515a134882610b3b4d221ae9c22?rik=CpLVT5uZdiIjqQ&riu=http%3a%2f%2fbayanbox.ir%2fview%2f3582792994493537721%2f1662897097-v2rayn-download.jpg&ehk=PRdxx3DTi8%2bRuM6ByRjTBSttihbJUVsSsY%2f1CLING7c%3d&risl=&pid=ImgRaw&r=0",
-    "date": "2024/12/8",
-    "time": "17:44:29"
   }
 ]
