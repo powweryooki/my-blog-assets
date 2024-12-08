@@ -16,7 +16,7 @@
   {
     "title": "IDM激活教程",
     "content": "IDM官网下载地址：\n\nhttps://www.internerdownloadmanager.com/\n\n激活教程地址：\n\nhttps://github.com/WindowsAddict/IDM-Activation-Script/releases\n\n激活方法：\n\n鼠标右键点击开始菜单，选择Windows PowerShell  （注意此处并非CMD）\n\n然后复制下面的内容粘贴在Windows PowerShell窗口中并按下回车，\n\nirm https://massgrave.dev/ias | iex\n\n稍等后它会出现一个选项窗口，选择2是激活，选择1是冻结试用状态（即是永久可以试用模式），这里推荐选择2直接激活。\n\n选2后再弹出一个窗口，然后再选择9继续，如果选择1是返回。\n\n之后它会自动下载一些文件自动执行完毕后即可。",
-    "image": "",
+    "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1van8N.img?w=768&h=444&m=6&x=437&y=243&s=719&d=542",
     "date": "2024/12/8",
     "time": "12:09:16"
   },
