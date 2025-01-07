@@ -35,8 +35,8 @@
     "time": "21:29:36"
   },
   {
-    "title": "6",
-    "content": "6",
+    "title": "Windows 11 微软 Recall 召回功能有重大安全隐患！如何检测并禁用？",
+    "content": "    最新版本的Windows 11系统中，微软默认启用了备受争议的Recall功能。这一功能通过定期截取用户屏幕并进行分析，旨在帮助用户快速检索过去操作的信息。然而，其潜在的安全和隐私风险引发了广泛关注。\n    Recall功能为何引发担忧？\n隐私泄露风险： Recall功能可能无意中截取包含敏感信息的屏幕截图，例如密码、银行账户信息等，这些信息一旦泄露，将对用户造成严重损失。\n数据滥用隐患： 虽然微软声称会对数据进行加密和匿名化处理，但仍无法完全排除数据被滥用的可能性。\n系统性能影响： 不断的屏幕截图和数据分析可能占用大量系统资源，影响电脑运行速度。\n只需在CMD终端下，以管理员身份运行以下命令即可！\n检测是否开启：Dism /Online /Get-Featureinfo /Featurename:Recall\n关闭 Recall功能：Dism /Online /Disable-Feature /Featurename:Recall\n开启Recall功能：Dism /Online /Enable-Feature /Featurename:Recall",
     "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1van8N.img?w=768&h=444&m=6&x=437&y=243&s=719&d=542",
     "date": "2024/12/8",
     "time": "21:29:45"
