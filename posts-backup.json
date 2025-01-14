@@ -1,7 +1,7 @@
 [
   {
     "title": "Win10更新后出错修复方法",
-    "content": "win10安装了系统补丁后不能正常进入系统，并且在安全模式下也不能卸载系统补丁，可以尝试在安全模式下，用管理员模式执行cmd 并执行sfc /SCANNOW 后，再将所更新的系统补丁卸载，该方法还能修复windows的系统文件错误。www.baidu.com",
+    "content": "win10安装了系统补丁后不能正常进入系统，并且在安全模式下也不能卸载系统补丁，可以尝试在安全模式下，用管理员模式执行cmd 并执行sfc /SCANNOW 后，再将所更新的系统补丁卸载，该方法还能修复windows的系统文件错误。",
     "image": "https://tse2-mm.cn.bing.net/th/id/OIP-C.ORFFMDNxXwqXRLIB32u4yAHaEH?w=300&h=180&c=7&r=0&o=5&pid=1.7",
     "date": "2024/12/8",
     "time": "21:29:02"
