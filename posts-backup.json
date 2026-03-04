@@ -85,7 +85,7 @@
   },
   {
     "title": "Edge浏览器右上角的Copilot图标按钮不显示的处理方法",
-    "content": "edge浏览器Copilot消失处理办法：1.首先退出edge浏览器，并在任务管理器中将所有edge的进程关闭。\n2.在文件管理器中打开以下地址：\n%LOCALAPPDATA%\\Microsoft\\Edge\\User Data\\\n3.找到Local State这个文件并用记事本打开，然后搜索\"variations_country\": \"CN\"    ，将其中的CN修改为US保存，再次打开edge浏览器即可。",
+    "content": "edge浏览器Copilot消失处理办法：1.首先退出edge浏览器，并在任务管理器中将所有edge的进程关闭。\n2.在文件管理器中打开以下地址：\n%LOCALAPPDATA%\\Microsoft\\Edge\\User Data\\\n3.找到Local State这个文件并用记事本打开，然后搜索\"variations_country\": \"CN\"    ，将其中的CN修改为US保存，再次打开edge浏览器即可。还有一个更简便的方法，就是将这个步骤编译进bat文件直接执行即可。",
     "image": "",
     "date": "2026/3/4",
     "time": "22:06:52"
